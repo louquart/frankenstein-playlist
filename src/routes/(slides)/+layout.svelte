@@ -16,7 +16,8 @@
       { route: '/07-song7', title: 'Song 7', notes: false }, 
       { route: '/08-song8', title: 'Song 8', notes: false },
       { route: '/09-song9', title: 'Song 9', notes: false }, 
-      { route: '/10-song10', title: 'Song 10', notes: false }
+      { route: '/10-song10', title: 'Song 10', notes: false },
+      { route: '/11-song11', title: 'Song 11', notes: false }
   ]
 </script>
 

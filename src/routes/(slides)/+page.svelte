@@ -19,7 +19,7 @@
 	</div>
 
     <nav class="mx-auto mt-8 flex space-x-4">
-		<a href="https://github.com/louquart" class="flex items-center justify-center gap-1 font-sans text-lg font-semibold leading-relaxed underline text-gray-400 hover:text-secondary">
+		<a href="https://github.com/louquart/frankenstein-playlist" class="flex items-center justify-center gap-1 font-sans text-lg font-semibold leading-relaxed underline text-gray-400 hover:text-secondary">
 			Source Code
 		</a>
 	</nav>
