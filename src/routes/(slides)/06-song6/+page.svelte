@@ -48,10 +48,13 @@ Mad world
     </h1>
     <br />
     <pre>
-        This song's melancholic tone and lyrics about the harshness and cruelty of the world can be 
-        connected to the themes of alienation and the monstrousness of humanity in the story.
+This song's melancholic tone and lyrics about the harshness and cruelty of the world can be 
+connected to the themes of alienation and the monstrousness of humanity in the story.
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide6.jpg"/>
+    </div>
 </main>
 
 

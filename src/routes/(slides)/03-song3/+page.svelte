@@ -80,10 +80,13 @@ Don't put your blame on me
     </h1>
     <br />
     <pre>
-        This song explores the duality of human nature, acknowledging both the strengths 
-        and flaws that define humanity, which is a key theme in the story.
+This song explores human nature, acknowledging the flaws that define humanity, which is a key 
+theme in the story with Victor.
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide3.jpg"/>
+    </div>
 </main>
 
 

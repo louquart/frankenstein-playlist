@@ -49,13 +49,18 @@ And whispered in the sounds of silence"
     </h1>
     <br />
     <pre>
-        The feelings of isolation and loneliness expressed in this song resonate with the experiences 
-        of Victor Frankenstein and the creature.
+The feelings of isolation and loneliness expressed in this song resonate with the experiences 
+of Victor Frankenstein and the creature.
 
-        Frankenstein experiences this loneliness throughout the story and Victor experiences it when 
-        he is making both the first and second creatures, shutting himself inside.
+Frankenstein experiences this loneliness throughout the story and Victor experiences it when 
+he is making both the first and second creatures, shutting himself inside.
+
+"As it was, I lived ungazed at and unmolested," (Shelly 177)
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide11.jpg"/>
+    </div>
 </main>
 
 

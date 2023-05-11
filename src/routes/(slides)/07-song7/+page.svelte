@@ -58,11 +58,17 @@ Bring me to life
     </h1>
     <br />
     <pre>
-        The song's theme of being brought to life and awakened echoes the moment when Victor 
-        Frankenstein animates the creature.
-        (INSERT QUOTE HERE)
+The song's theme of being brought to life and awakened echoes the moment when Victor 
+Frankenstein animates the creature.
+
+"It was already one in the morning; the rain pattered dismally against the panes, and my candle 
+was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye 
+of the creature open; it breathed hard, and a convulsive motion agitated its limbs." (Shelly 58)
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide7.jpg"/>
+    </div>
 </main>
 
 

@@ -55,13 +55,18 @@ Behind blue eyes
     </h1>
     <br />
     <pre>
-        The lyrics convey a sense of misunderstood pain and the desire to be seen for who one 
-        truly is, which can be related to the creature's experience.
+The lyrics convey a sense of misunderstood pain and the desire to be seen for who one 
+truly is, which can be related to the creature's experience.
 
-        Played when he is discovered by the family in the woods
-        (INSERT QUOTE HERE)
+This song would best fit when the creature is attacked by other members of the DeLacey Family 
+after meeting the blind father, who sympathizes with the creature's feelings.
+        
+"But my heart sank within me as with bitter sickness," (Shelly 145)
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide5.jpg"/>
+    </div>
 </main>
 
 

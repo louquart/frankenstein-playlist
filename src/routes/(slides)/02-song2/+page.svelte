@@ -41,12 +41,20 @@ And an island never cries
     </h1>
     <br />
     <pre>
-        The theme of isolation and self-imposed exile in this song echoes 
-        the loneliness experienced by both Victor and the creature.
+The theme of isolation and self-imposed exile in this song echoes 
+the loneliness experienced by both Victor and the creature.
 
-        (INSERT RELATED QUOTE HERE)
+Two appropriate parts of the story for this song would be both times when Victor shuts himself 
+off from the rest of the world as he is creating on the creatures.
+
+"In a solitary chamber, or rather cell, at the top of the house, and separated from all the other 
+apartments by a gallery and staircase, I kept my workshop of filthy creation" (Shelly 55)
+
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide2.jpg"/>
+    </div>
 </main>
 
 

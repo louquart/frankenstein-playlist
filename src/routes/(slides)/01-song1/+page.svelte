@@ -49,13 +49,19 @@ I don't belong here
     </h1>
     <br />
     <pre>
-        The feelings of alienation and not belonging expressed in the song 
-        resonate with the creature's experiences of rejection by society in the novel.
+The feelings of alienation and not belonging expressed in the song 
+resonate with the creature's experiences of rejection by society in the novel.
 
-        This song would be most fitting when the creature kills himself at the end of the story.
-        (INSERT QUOTE HERE)
+This song would be most fitting when the creature leaves on the ice raft at the end of 
+the story to emphasize the dramatic ending.
+
+"He sprang from the cabin window as he said this, upon the ice raft which lay close to the vessel. 
+He was soon borne away by the waves and lost in darkness and distance." (Shelly 241)
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide1.jpg"/>
+    </div>
 </main>
 
 

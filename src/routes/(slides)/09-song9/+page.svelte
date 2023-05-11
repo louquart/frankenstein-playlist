@@ -60,15 +60,19 @@ I'm just a little unwell...
     </h1>
     <br />
     <pre>
-        The theme of struggling with one's inner turmoil and not feeling fully understood is relevant 
-        to both Victor and the creature.
+The theme of struggling with one's inner turmoil and not feeling fully understood is relevant 
+to both Victor and the creature.
 
-        Throughout the story, Victor falls sick whenever something causes him to become exceptionally guilty, 
-        allowing him to temporarily escape
+Throughout the story, Victor falls sick whenever something causes him to become exceptionally guilty, 
+allowing him to temporarily escape his responsibility.
         
-        (INSERT QUOTE)
+"The human frame could no longer support the agonies that I endured, and I was carried out of the room in 
+strong convulsions. A fever succeeded to this. I lay for two months on the point of death," (Shelly 191)
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide9.jpg"/>
+    </div>
 </main>
 
 

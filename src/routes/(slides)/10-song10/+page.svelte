@@ -43,11 +43,14 @@ You still have all of me ah, me ah, me ah
     </h1>
     <br />
     <pre>
-        This song deals with loss and the struggle to move past it, which can be 
-        related to how as Victor is constantly trying to cope with his mistake of creation 
-        and the consequences of his creation.
+This song deals with loss and the struggle to move past it, which can be 
+related to how as Victor is constantly trying to cope with his mistake of creation 
+and the consequences of his creation.
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide10.jpg"/>
+    </div>
 </main>
 
 

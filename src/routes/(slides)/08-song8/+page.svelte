@@ -70,10 +70,13 @@ I can't take it anymore
     </h1>
     <br />
     <pre>
-        This song's theme of escaping from one's past and the consequences of one's actions 
-        can be connected to Victor's experience in the story.
+This song's theme of escaping from one's past and the consequences of one's actions 
+can be connected to Victor's experience in the story.
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide8.jpg"/>
+    </div>
 </main>
 
 

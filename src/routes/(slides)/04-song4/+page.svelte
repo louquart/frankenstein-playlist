@@ -59,10 +59,13 @@ And it keeps getting stronger
     </h1>
     <br />
     <pre>
-        The struggle with one's inner demons and the fear of becoming a monster is a theme that can be 
-        connected to the novel's characters, particularly Victor Frankenstein.
+The struggle with one's inner demons and the fear of becoming a monster is a theme that can be 
+connected to the novel's characters, particularly Victor Frankenstein.
     </pre>
-    <br /><br /><br /><br /><br /><br />
+    <div class="flex h-screen w-screen content-center items-center justify-center">
+        <!-- svelte-ignore a11y-missing-attribute -->
+        <img src="images/slide4.jpg"/>
+    </div>
 </main>
 
 
